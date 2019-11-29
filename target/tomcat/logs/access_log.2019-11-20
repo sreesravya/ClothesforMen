@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:15:35:14 +0000] "GET /mavenproject1 HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:15:35:17 +0000] "GET /mavenproject1/ HTTP/1.1" 200 52 http-bio-8080-exec-3 2280
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:15:35:17 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:15:46:35 +0000] "GET /mavenproject1/ HTTP/1.1" 500 2958 http-bio-8080-exec-7 784
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:15:51:17 +0000] "GET /mavenproject1 HTTP/1.1" 302 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:15:51:18 +0000] "GET /mavenproject1/ HTTP/1.1" 200 1047 http-bio-8080-exec-10 416
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:18:41:24 +0000] "GET /mavenproject1 HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:18:41:24 +0000] "GET /mavenproject1/ HTTP/1.1" 200 1047 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:05:15 +0000] "GET /mavenproject1 HTTP/1.1" 302 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:05:18 +0000] "GET /mavenproject1/ HTTP/1.1" 200 1047 http-bio-8080-exec-10 1825
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:12:02 +0000] "GET /mavenproject1 HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:12:02 +0000] "GET /mavenproject1 HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:12:03 +0000] "GET /mavenproject1/ HTTP/1.1" 200 1047 http-bio-8080-exec-3 416
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:12:03 +0000] "GET /mavenproject1/ HTTP/1.1" 200 1047 http-bio-8080-exec-3 0
